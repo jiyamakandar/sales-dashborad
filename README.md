@@ -34,7 +34,7 @@ An interactive dashboard was created to track KPIs like Revenue, Orders, and Ave
 ## 🛠️ Tools Used
 - Microsoft Excel (Data Cleaning, Pivot Tables, Charts)  
 - Microsoft Power BI (Dashboard, DAX Measures)  
-- Optional: Python (Data Preprocessing)  
+- Python (Data Preprocessing)  
 
 ---
 
@@ -80,7 +80,7 @@ An interactive dashboard was created to track KPIs like Revenue, Orders, and Ave
 
 ## 👨‍💻 Author
 **Jiya Makandar**  
-BCA Student | Data Analytics Enthusiast  
+  
 
 ---
 
